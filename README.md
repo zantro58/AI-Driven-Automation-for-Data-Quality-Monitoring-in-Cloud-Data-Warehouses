@@ -1,6 +1,6 @@
 # AI-Driven-Automation-for-Data-Quality-Monitoring-in-Cloud-Data-Warehouses
 
-# AI-Driven Automation for Data Quality Monitoring in Cloud Data Warehouses  
+ 
 
 ## 📌 Overview  
 Ensuring high-quality data is crucial for accurate decision-making. This project leverages AI and machine learning to automate data quality monitoring in cloud data warehouses. By detecting anomalies, inconsistencies, and missing data in real time, this system enhances data integrity and reduces manual intervention.  
